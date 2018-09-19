@@ -10,11 +10,13 @@
 <br>
 Edit _.env_ file.
 <br><br>
-_composer install_<br>
-_php artisan migrate_<br>
-_php artisan db:seed_<br>
-_php artisan key:generate_<br>
-_php artisan serve_<br>
+```
+composer install
+php artisan migrate
+php artisan db:seed
+php artisan key:generate
+php artisan serve
+```
 <br>
 And then then the local server will run on 8000 port.
 <br>
