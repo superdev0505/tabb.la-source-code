@@ -8,13 +8,13 @@
 <br>
 <p>Create Database on your local Mysql server.</p>
 <br>
-####Edit _.env_ file.
+Edit _.env_ file.
 <br><br>
-####_composer install_
-####_php artisan migrate_
-####_php artisan db:seed_
-####_php artisan key:generate_
-####_php artisan serve_
+_composer install_<br>
+_php artisan migrate_<br>
+_php artisan db:seed_<br>
+_php artisan key:generate_<br>
+_php artisan serve_<br>
 <br>
 And then then the local server will run on 8000 port.
 <br>
